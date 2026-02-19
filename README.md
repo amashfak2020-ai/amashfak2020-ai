@@ -1,5 +1,5 @@
 
-# 💻 Tech Stack:
+# 💻 Techical Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![VSTS](https://img.shields.io/badge/VSTS-0078D7.svg?style=for-the-badge&logo=visual-studio-team-services&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-F26222.svg?style=for-the-badge&logo=sonarqube&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=snyk&logoColor=white)
  ![AppInsights](https://img.shields.io/badge/AppInsights-0078D7.svg?style=for-the-badge&logo=azure-monitor&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
