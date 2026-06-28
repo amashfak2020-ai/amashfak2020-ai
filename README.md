@@ -31,7 +31,7 @@ I enjoy building reliable systems, automating workflows, and exploring modern AI
 ![](https://nirzak-streak-stats.vercel.app/?user=amashfak2020-ai&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amashfak2020-ai&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔗 Connect
+## 🔗 Connect https://www.linkedin.com/in/ashfak-m-78914a1b7/
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 ---
